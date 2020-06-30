@@ -38,6 +38,9 @@ gem 'pg', '~> 0.20'
 
 gem "bootstrap-sass"
 
+# Use jquery as the JavaScript library
+gem 'jquery-rails'
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
